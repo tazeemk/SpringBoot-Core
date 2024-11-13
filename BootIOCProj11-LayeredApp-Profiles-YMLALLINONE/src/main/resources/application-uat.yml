@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    dbcp2:
+      driver-class-name: oralce.jdbc.driver.OracleDriver
+    url: jdbc:oracle:thin:@localhost:1521:orcl
+    username: SYSTEM
+    password: tiger
+    type: oracle.ucp.jdbc.PoolDataSourceImpl
