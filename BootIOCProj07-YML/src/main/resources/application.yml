@@ -1,0 +1,14 @@
+spring:
+   application:
+     name: BootIOCProj07-YML
+
+emp:
+  data :     
+    empid: 555
+    ename: DEVANG
+    deptno: president
+    color:
+     - blue
+     - black
+     - yellow
+      mafia :[devang,sahid,sanu]
