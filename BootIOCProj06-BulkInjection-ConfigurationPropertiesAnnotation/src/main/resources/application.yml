@@ -1,0 +1,28 @@
+# Conversion to YAML from Properties formar report
+# Warnings:
+# - The yaml file had comments which are lost in the refactoring!
+spring:
+  application:
+    name: BootIOCProj06-BulkInjection-ConfigurationPropertiesAnnotation
+org:
+  nit:
+    cname: devangBadhshah
+    location: New York
+    ctype: Software
+    color:
+    - blue
+    - black
+    names: devang,sahid,sahil
+    loc: hyd,ny,usa
+    phno:
+      devang: 555555
+      sahid: 6565565
+    c:
+      cid: 5655
+      cname: devang
+      cloc: Los Angeles
+com:
+  regno: 5555
+  weapon: ak
+  n1: 555
+  n2: 55556
